@@ -1,0 +1,35 @@
+{
+  "name": "default-dev-files",
+  "version": "1.0.0",
+  "description": "All my essential dev files for front end development both local and remote",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matturenovich/dev-defaults.git"
+  },
+  "keywords": [
+    "Dev",
+    "Tools",
+    "Front-end",
+    "Development",
+    "Dev",
+    "Setup",
+    "Configurations",
+    "Oh",
+    "My",
+    "Zsh",
+    "config",
+    "vagrant",
+    "files",
+    "terminal"
+  ],
+  "author": "Matt Urenovich",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/matturenovich/dev-defaults/issues"
+  },
+  "homepage": "https://github.com/matturenovich/dev-defaults#readme"
+}
