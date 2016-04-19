@@ -11,20 +11,15 @@
     "url": "git+https://github.com/matturenovich/dev-defaults.git"
   },
   "keywords": [
-    "Dev",
-    "Tools",
+    "Dev-Tools",
     "Front-end",
     "Development",
-    "Dev",
     "Setup",
     "Configurations",
-    "Oh",
-    "My",
     "Zsh",
-    "config",
     "vagrant",
-    "files",
-    "terminal"
+    "terminal",
+    "json"
   ],
   "author": "Matt Urenovich",
   "license": "GPL-3.0",
